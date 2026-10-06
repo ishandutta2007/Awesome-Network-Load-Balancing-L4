@@ -62,7 +62,7 @@ Welcome to the ultimate curated directory of **Layer 4 network load balancing so
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[NGINX](https://github.com/nginx/nginx)** [![Stars](https://img.shields.io/github/stars/nginx/nginx?style=social&color=white)](https://github.com/nginx/nginx/stargazers) 🟢  
   **High-performance web server and reverse proxy**, BSD-2-Clause licensed. `stream` module provides L4 TCP/UDP load balancing with round-robin, least connections, hash, and random algorithms.
@@ -123,7 +123,7 @@ Contributions are welcome! Follow these steps to submit new L4 load balancing pl
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
